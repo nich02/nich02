@@ -1,4 +1,4 @@
-# README.md
+
 <h2 align="center">Hi friend, I'm  Nicholas Musau</h2>
 
 <h3 align="center">I'm a Big Data analyst, Data Scientist, Engineer & AWS Cloud Architect</h3>
