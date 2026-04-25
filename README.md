@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi friend, I'm  Nicholas Musau</h2>
 
-<h3 align="center">I'm a Big Data analyst, Data Scientist, Engineer & AWS Cloud Architect</h3>
+<h3 align="center">I'm a Big Data analyst, Spatial Data Scientist (ESG Analyst), Project Manager,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nich02&label=Profile%20views&color=0e75b6&style=flat" alt="nich02" /> </p>
  
